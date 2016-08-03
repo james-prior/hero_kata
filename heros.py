@@ -13,7 +13,7 @@
 # 5. When a weapon print's itself it should display all it's enchantments.
     # Example 1 "Shielding Great Bow of Fire" (AWESOME)
     # Example 2 "Healing Shabby Staff" (bad quality but enchanted)
-    # Example 3 "Normal Sword" (no enchantnets)
+    # Example 3 "Normal Sword" (no enchantments)
 
 ### Hero
 # 0. A hero will have a name.
@@ -24,7 +24,7 @@
 # 5. A hero will have an alignment. "Fire", "Ice", "Shadow" or "Light"
 # 6. A hero will have a class. "Warrior", "Rouge", "Hunter", "Mage"
 # 7. A warrior can only equip swords.
-# 8. A rouge can only equip knives.
+# 8. A rogue can only equip knives.
 # 9. A hunter can only equip bows.
 # 10. A mage can only equip staves.
 
